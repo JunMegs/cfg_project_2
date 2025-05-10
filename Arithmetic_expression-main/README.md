@@ -1,3 +1,6 @@
+#THIS README.md WAS NOT MINE
+
+
 # Arithmetic Expression Parser with ANTLR and Java
 A visual parser application that demonstrates parsing arithmetic expressions using ANTLR4 and Java. This tool provides a graphical interface for entering expressions, visualizing parse trees, and evaluating expressions.
 
